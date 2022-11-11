@@ -6,12 +6,12 @@
   --header-height: 3.5rem;
 
   /*========== Colors ==========*/
-  --first-color: #540b0e;
+  --first-color: #780000;
   --button-color: hsl(0, 0%, 17%);
   --button-color-alt: hsl(0, 0%, 21%);
-  --card-color: #540b0e;
+  --card-color: #780000;
   --title-color: hsl(0, 0%, 15%);
-  --text-color: hsl(0, 14%, 91%);
+  --text-color: hsl(0, 0%, 35%);
   --text-color-light: hsl(0, 0%, 55%);
   --body-color: hsl(206, 4%, 97%);
   --container-color: #fff;
